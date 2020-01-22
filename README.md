@@ -1,8 +1,7 @@
 # DevConnector
 
-> Small social network app built with the MERN stack. This is part of my "MERN Stack Front To Back" Udemy course
+> Small social network app built with the MERN stack. 
 
-IMPORTANT - This is from the old course. The latest version is at https://github.com/bradtraversy/devconnector_2.0
 
 ## Quick Start
 
@@ -33,18 +32,3 @@ module.exports = {
   secretOrKey: 'YOUR_OWN_SECRET'
 };
 ```
-
-## App Info
-
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
-### Version
-
-1.0.0
-
-### License
-
-This project is licensed under the MIT License
